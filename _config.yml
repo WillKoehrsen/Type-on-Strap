@@ -8,8 +8,8 @@ description: "A website with blog posts and pages" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
-  avatar: assets/img/triangle.svg
+  title: Will Koehrsen # blog's title
+  avatar: https://avatars3.githubusercontent.com/u/17484616?s=460&v=4
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
@@ -22,14 +22,14 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: wjk68@case.edu
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "WillKoehrsen"
   google_plus:
   instagram:
   keybase:
@@ -40,21 +40,21 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "koehrsen_will"
   vimeo:
   wordpress:
   youtube:
   
   # Sharing options
   share_buttons:
-    facebook: true
+    facebook: false
     twitter: true
     google_plus: true
     tumblr:
     pinterest:
     pocket:
     reddit: true
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
