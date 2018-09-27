@@ -9,8 +9,8 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: Will Koehrsen # blog's title
-  avatar: https://avatars3.githubusercontent.com/u/17484616?s=460&v=4
-  favicon: assets/favicon.ico
+  avatar: assets/img/self.jpeg
+  favicon: assets/favicon.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
